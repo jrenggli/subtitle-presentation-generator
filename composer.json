@@ -1,0 +1,14 @@
+{
+    "name": "avenueq/subtitle-generator",
+    "description": "Generates subtitles in Powerpoint based on a plain textfile",
+    "require": {
+        "phpoffice/phppresentation": "~0.6.0"
+    },
+    "authors": [
+        {
+            "name": "Jonas Renggli",
+            "email": "jrenggli@gmx.net"
+        }
+    ],
+    "minimum-stability": "stable"
+}
